@@ -154,7 +154,7 @@ function finishedQuiz(){
 
     questions.appendChild(initialsInput);
 
-    submit.textContent = "Submit";
+    submit.textContent = "Give it up";
 
     questions.appendChild(submit);
 
